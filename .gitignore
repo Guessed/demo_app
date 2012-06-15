@@ -15,9 +15,8 @@
 /tmp
 
 # Additional ignores
-/doc/api
-/doc/app
-/db/*.sqlite3
+doc/
 *.swp
 *~
+.project
 .DS_Store
